@@ -1,0 +1,51 @@
+*
+{
+    margin: 0 auto;
+}
+.container1
+{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+.one
+{
+
+    border: 1px solid gray;
+    padding: 2em 0 2em 2em;
+}
+#item
+{
+    filter: blur(0.7px);
+} 
+.fa-heart
+{
+    color:white;
+
+    position: relative;
+    top:-70%; 
+    left: -16%; 
+    font-size: 1.5em;
+}
+.stars
+{
+    position: relative;
+    top:-20%; 
+    color: yellow;
+    font-size: 1em;
+
+    width: 100%;
+    text-align: center;
+}
+#price,.text h3{
+    text-align: center;
+}
+
+#price b
+{
+    padding-right: 0.5em
+}
+strike{
+    color:gray;
+    padding-right: 0.5em
+}
